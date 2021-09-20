@@ -1,0 +1,24 @@
+{
+  "name": "cypress-page-objects",
+  "version": "1.0.0",
+  "description": "Project using Cypress with Page Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyJP/Cypress-PageObjects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyJP/Cypress-PageObjects/issues"
+  },
+  "homepage": "https://github.com/AndreyJP/Cypress-PageObjects#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
